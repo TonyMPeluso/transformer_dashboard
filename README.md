@@ -14,7 +14,7 @@ This project develops a dashboard to simulate the impact of Zero Emission Vehicl
 
 ## Installation
 
-Run programs in order: 00_read_and_write..., 01_read_and_write..., then app_dashboard.R
+Run programs in order: <br>00_read_and_write..., <br>01_read_and_write..., then <br>app_dashboard.R
 
 User must obtain own cancensus API -- see see https://mountainmath.github.io/cancensus/ 
 
