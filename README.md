@@ -3,8 +3,6 @@
 This project develops a dashboard to simulate the impact of Zero Emission Vehicle (ZEV) ownership and charging behaviours over time on the transformer substations of Ontario cities.
 
 🌐 Live Demo
-
-🌐 Live Demo
 👉 [Transformer Dashboard for Toronto](https://tonympeluso.shinyapps.io/ZEV_CT_Forecast_Simulator_Tor/) 
 Don't forget to click on the chart to see the map!
 
