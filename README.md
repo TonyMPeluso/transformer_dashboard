@@ -4,7 +4,8 @@ This project develops a dashboard to simulate the impact of Zero Emission Vehicl
 
 🌐 Live Demo
 
-👉 [Transformer Dashboard for Toronto] (https://tonympeluso.shinyapps.io/ZEV_CT_Forecast_Simulator_Tor/)
+🌐 Live Demo
+👉 [Transformer Dashboard for Toronto](https://tonympeluso.shinyapps.io/ZEV_CT_Forecast_Simulator_Tor/) 
 Don't forget to click on the chart to see the map!
 
 
@@ -19,6 +20,6 @@ Don't forget to click on the chart to see the map!
 
 Run programs in order: <br>00_read_and_write..., <br>01_read_and_write..., then <br>app_dashboard.R
 
-User must obtain own cancensus API -- see see https://mountainmath.github.io/cancensus/ 
+User must obtain own cancensus API -- see https://mountainmath.github.io/cancensus/ 
 
 
