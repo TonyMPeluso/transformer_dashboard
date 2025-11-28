@@ -1,4 +1,4 @@
-# Transformer Dashbord
+# Transformer Dashboard
 
 This project develops a dashboard to simulate the impact of Zero Emission Vehicle (ZEV) ownership and charging behaviours over time on the transformer substations of Ontario cities.
 
