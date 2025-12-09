@@ -144,3 +144,12 @@ How risk evolves across years and behaviours
 - Investment Optimization Dashboard
 
 Together, these form a comprehensive suite for distribution planning under electrification.
+
+## 📄 License
+
+MIT License (see LICENCE.txt)
+
+## 👤 Author
+
+Tony Peluso, PhD Energy Modelling & Grid Analytics — Montreal, QC
+📧 tonympeluso@gmail.com 🔗 GitHub: https://github.com/TonyMPeluso 🔗 LinkedIn: https://www.linkedin.com/in/tony-peluso-phd
