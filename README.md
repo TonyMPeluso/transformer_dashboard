@@ -106,25 +106,17 @@ shiny::runApp("app_dashboard.R")
 
 ##🔍 How to Use the Dashboard
  
-Choose the analysis year (e.g., 2030, 2035, 2046)
+- Choose the analysis year (e.g., 2030, 2035, 2046)
+- Adjust charging behaviour:
+  - Level 1 vs Level 2 charging mix
+  - Share of charging done in the evening
+- View peak transformer loads over time
+- Click the chart → map updates for that time point
+- Explore spatial patterns:
+  - Where charging demand concentrates
+  - Which transformers face the highest evening peaks
 
-Adjust charging behaviour:
-
-Level 1 vs Level 2 charging mix
-
-Share of charging done in the evening
-
-View peak transformer loads over time
-
-Click the chart → map updates for that time point
-
-Explore spatial patterns:
-
-Where charging demand concentrates
-
-Which transformers face the highest evening peaks
-
-How risk evolves across years and behaviours
+### 🔄 App Demo (GIF) 
 
 ## 🧪 Use Cases
 ### For Utilities
