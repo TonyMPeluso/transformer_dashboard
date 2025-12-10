@@ -100,10 +100,11 @@ CANCENSUS_API_KEY=YOUR_KEY
 ```
 
 ### 4️⃣ Run the pipeline + dashboard
-source("00_read_and_write_*.R")
-source("00_read_and_write_*.R")
-source("01_read_and_write_*.R")
+```
+source("00_read_and_write_census_and_pop*.R")
+source("01_read_and_write_zev_stock*.R")
 shiny::runApp("app_dashboard.R")
+```
 
 ##🔍 How to Use the Dashboard
  
