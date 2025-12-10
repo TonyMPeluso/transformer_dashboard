@@ -101,6 +101,7 @@ CANCENSUS_API_KEY=YOUR_KEY
 
 ### 4️⃣ Run the pipeline + dashboard
 source("00_read_and_write_*.R")
+source("00_read_and_write_*.R")
 source("01_read_and_write_*.R")
 shiny::runApp("app_dashboard.R")
 
@@ -112,11 +113,12 @@ shiny::runApp("app_dashboard.R")
   - Share of charging done in the evening
 - View peak transformer loads over time
 - Click the chart → map updates for that time point
-- Explore spatial patterns:
-  - Where charging demand concentrates
-  - Which transformers face the highest evening peaks
+  - Explore spatial patterns:
+      - Where charging demand concentrates
+    - Which transformers face the highest evening peaks
 
 ### 🔄 App Demo (GIF) 
+<img src="assets/demo.gif" width="750">
 
 ## 🧪 Use Cases
 ### For Utilities
