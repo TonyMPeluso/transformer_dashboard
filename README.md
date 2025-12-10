@@ -14,7 +14,7 @@ https://tonympeluso.shinyapps.io/ZEV_CT_Forecast_Simulator_Tor/
 ## 🧭 Overview
 
 ZEV adoption introduces new evening and overnight loads that may cluster spatially. This dashboard links:
-- Projected ZEV ownership to 2046
+- Projected ZEV ownership to 2046 based on historic ZEV registrations, population projections and modelled ZEV adoption rates
 - Charging behaviour (Level 1 vs Level 2, evening vs non-evening charging)
 - Service-area-level load aggregation
 - Transformer-level peak load trajectories
