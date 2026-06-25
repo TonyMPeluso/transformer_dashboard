@@ -20,7 +20,7 @@ dir.create(cache_dir, recursive = TRUE, showWarnings = FALSE)
 
 # Set cancensus options
 options(cancensus.cache_path = cache_dir)
-options(cancensus.api_key = "CensusMapper_4157198e649c5a47d5759a6f6be9214a")
+options(cancensus.api_key = "CensusMapper_XXXXXXXX")
 
 # --- 1) CENSUS DATA ---
 # Variables of interest
